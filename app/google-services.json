@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "300500779535",
+    "firebase_url": "https://mono6798-935db.firebaseio.com",
+    "project_id": "mono6798-935db",
+    "storage_bucket": "mono6798-935db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300500779535:android:a9d29280b7bfd5b6e9597a",
+        "android_client_info": {
+          "package_name": "com.example.mono"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "300500779535-dvopra2e9ql0abmsmr6lkbja0544apc4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCH2uEv9cBkLh3Y11ooAYhe227eQZTfyt4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "300500779535-dvopra2e9ql0abmsmr6lkbja0544apc4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

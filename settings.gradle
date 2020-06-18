@@ -1,0 +1,2 @@
+rootProject.name='Mono'
+include ':app'
